@@ -7,6 +7,7 @@ import javax.persistence.Table;
 public class User 
 {
 @Id
+  //Success
 private int id;
 private String username;
 public int getId() 
